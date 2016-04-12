@@ -1,6 +1,6 @@
 /// <reference path="../app.ts" />
 
-'use strict';
+"use strict";
 
 module testAngularTsApp {
     export interface IAboutScope extends ng.IScope {
